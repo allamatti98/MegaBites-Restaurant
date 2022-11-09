@@ -4,7 +4,8 @@
 /node_modules
 /.pnp
 .pnp.js
-/src/assets/img
+/src/assets
+App.css
 package-lock.json
 
 # testing
